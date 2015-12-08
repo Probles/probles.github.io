@@ -3,7 +3,7 @@ website for an assignment in cse 322
 
 This website was created for the sole puspose of learning.
 
-The content is cited under the Contaact page.
+The content is cited under the Contaact (myinfo.hmtl) page.
  - Here you will find where the images were gathered from.
  - The summaries all come from wikipedia.
  
