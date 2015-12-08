@@ -1,8 +1,113 @@
+ul{
+	background-color: black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
 .nav{
-	font-family: seraf gothic;
 	display: inline;
 	padding-top: 10%;
 	padding-left: .5%;
 	padding-right: .5%;
 	padding-bottom: 10%;
-	}
+}
+
+ul{
+	text-align: center;
+}
+
+p{
+	background-color: black;
+}
+
+a:link{
+	color: yellow;
+	text-decoration:none;
+	font-size: 25px;
+	font-family: serif;
+}
+a:hover{
+		text-decoration: underline;
+}
+a:active{
+		text-decoration: bold;
+}
+a:visited {
+    color: yellow;
+}
+
+.container{
+	max-width: 700px;
+	text-align: center;
+	font-size: 20px;
+	font-family: verdana;
+	color: black;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+	
+.container1{
+	background-color: gray;
+	max-width: 700px;
+	text-align: center;
+	font-size: 20px;
+	font-family: verdana;
+	color: black;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+	
+#container1{
+	color: white;
+}
+	
+.home1{
+	background-image: url("http://wallpapercave.com/wp/VkhEN8W.jpg");
+	background-image: no-repeat;
+}
+
+.ep1{
+	background-image: url("http://image.tmdb.org/t/p/original/1SecBfq9fFgYCfWL0QWdrZCgPX0.jpg");
+	background-image: no-repeat;
+}
+
+.ep2{
+	background-image: url("http://images5.alphacoders.com/339/339226.jpg");
+	background-image: no-repeat;
+}
+
+.ep3{
+	background-image: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Star-Wars-3-Wallpapers-HD.jpg");
+	background-image: no-repeat;
+}
+
+.ep4{
+	background-image: url("http://fanaru.com/star-wars-episode-iv-a-new-hope/image/59036-star-wars-episode-iv-a-new-hope-star-wars-episode-iv-a-new-hope-wallpaper.jpg");
+	background-image: no-repeat;
+}
+
+.ep5{
+	background-image: url("https://kungfugrep.com/wp-content/uploads/2014/02/339210.jpg");
+	background-image: no-repeat;
+}
+
+.ep6{
+	background-image: url("http://images6.alphacoders.com/507/507135.jpg");
+	background-image: no-repeat;
+}
+
+.info{
+	background-image: url("http://i.imgur.com/mml6T1h.jpg");
+	background-image: no-repeat;
+}
+
+.footer{
+	position: fixed;
+	Width: 100%;
+	bottom: 0;
+	color: white;
+	text-align: center;
+	display:block;
+	font-size:15px;
+	height: 15px;
+}
